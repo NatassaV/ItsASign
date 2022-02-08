@@ -7,6 +7,8 @@ Test yourself using the machine learning based hand-tracking mode that gives you
 
 tech : MongoDB, Node, express, Mocha
 
+Hosted on Heroku : https://its-a-sign-app.herokuapp.com/api/
+
 REST API:
 
 Get ('/', getUsers);
