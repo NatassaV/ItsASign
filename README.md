@@ -12,6 +12,9 @@ Hosted on Heroku : https://its-a-sign-app.herokuapp.com/api/
 Running the project
 You need to create a .env file and add URL=<database_url_here>, PORT=8080, DB_USER=<username_here> and DB_PASS=<password_here>.
 
+To run the tests, execute the following script:
+npm test
+
 REST API:
 
 Get ('/', getUsers);
